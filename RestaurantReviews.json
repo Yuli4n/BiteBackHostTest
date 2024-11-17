@@ -1,32 +1,30 @@
-[
-		{
-			name: "Ramiro Ramírez",
-			rating: 5,
-			review:
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-		},
-		{
-			name: "Alejandra Descárate",
-			rating: 4,
-			review:
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-		},
-		{
-			name: "Karen León",
-			rating: 3,
-			review:
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-		},
-		{
-			name: "Anuel BBB",
-			rating: 4,
-			review:
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-		},
-		{
-			name: "Good Bunny",
-			rating: 3,
-			review:
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-		},
-	];
+{
+name: "Ramiro Ramírez",
+rating: 5,
+review:
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+},
+{
+name: "Alejandra Descárate",
+rating: 4,
+review:
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+},
+{
+name: "Karen León",
+rating: 3,
+review:
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+},
+{
+name: "Anuel BBB",
+rating: 4,
+review:
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+},
+{
+name: "Good Bunny",
+rating: 3,
+review:
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+}
